@@ -1,0 +1,1 @@
+# fastapi-image-resize-api
